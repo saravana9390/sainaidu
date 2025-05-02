@@ -8,4 +8,8 @@ Embracing warmth, embracing light.
 The world feels new, both soft and wide,
 With hope and wonder side by side.
 In nature’s arms, I find my place
+<<<<<<< HEAD
 jai ntr jai ntr
+=======
+this prient by saravana
+>>>>>>> 709ac309b0baad598977c78f7a210b9af2d28365
